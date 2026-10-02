@@ -20,10 +20,7 @@ DUMA dibangun dengan pemahaman bahwa alat penunjang akademik harus sangat fungsi
 
 ## ✨ Fitur Unggulan
 
-- **📝 Pendekatan Markdown-First (Code-to-Diagram):** Ketik sintaks Markdown/Mermaid Anda, dan DUMA akan merendernya menjadi diagram instan tanpa perlu repot melakukan *drag-and-drop*.
-- **🤖 AI Diagram Generator (Zero-Cost Architecture):** Cukup deskripsikan alur sistem Anda menggunakan bahasa manusia, dan DUMA akan mengonversinya menjadi sintaks diagram yang valid. Didukung oleh integrasi LLM *client-side* yang dioptimalkan untuk meminimalkan beban server.
 - **🛡️ Academic Rule Checker:** *Linter* bawaan yang memvalidasi diagram Anda layaknya kode pemrograman. DUMA akan memunculkan peringatan jika ada relasi *database* yang salah, alur yang terputus, atau entitas yang tidak standar (PERIKSA: Diagram Alur Bebas Kesalahan).
-- **🔄 Sinkronisasi Real-time:** Antarmuka *split-pane* yang mulus. Perubahan pada kode di panel kiri langsung tecermin pada kanvas visual di panel kanan.
 - **💾 Format Portabel:** Ekspor diagram ke format `.png`, `.svg`, atau cukup *copy-paste* blok `.md` langsung ke Readme GitHub atau laporan skripsi Anda.
 
 ## 📊 Dukungan Diagram
